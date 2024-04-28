@@ -1,9 +1,5 @@
 from typing import List, Dict, Optional
 
-#Assignment 3
-#Created by Hamza Khamissa
-#March 28 2023
-
 
 def readPatientsFromFile(filename):
     """
